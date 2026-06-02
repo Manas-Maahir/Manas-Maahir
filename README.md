@@ -1,5 +1,5 @@
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6FC3F7&height=200&section=header&text=Manas%20Maahir&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=ML%20researcher%20%26%20developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6FC3F7&height=200&section=header&text=Manas%20Maahir&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=ML%20researcher%20%26%20developer&descAlignY=58&descSize=18&animation=fadeIn&v=2" alt="header" />
 
 <div align="center">
 
@@ -61,8 +61,8 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manas-Maahir&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manas%27%20GitHub%20Stats&show=prs_merged,reviews,discussions_started&title_color=6FC3F7&icon_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Maahir&layout=compact&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&title_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
+<img src="https://github-readme-stats-one-gamma-72.vercel.app/api?username=Manas-Maahir&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manas%27%20GitHub%20Stats&show=prs_merged,reviews,discussions_started&title_color=6FC3F7&icon_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
+<img src="https://github-readme-stats-one-gamma-72.vercel.app/api/top-langs/?username=Manas-Maahir&layout=compact&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&title_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
 
 </div>
 
@@ -126,11 +126,11 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 <div align="center">
 
-[![NDEWS](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Maahir&repo=Neural-Degeneration-Early-Warning-System-NDEWS-&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)
-[![Wafer Defect Detection](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Maahir&repo=Wafer-Defect-Detection-using-EWC&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)
+[![NDEWS](https://github-readme-stats-one-gamma-72.vercel.app/api/pin/?username=Manas-Maahir&repo=Neural-Degeneration-Early-Warning-System-NDEWS-&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)
+[![Wafer Defect Detection](https://github-readme-stats-one-gamma-72.vercel.app/api/pin/?username=Manas-Maahir&repo=Wafer-Defect-Detection-using-EWC&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)
 
-[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Maahir&repo=finance-tracker-android&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/finance-tracker-android)
-[![MuBo](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Maahir&repo=MuBo&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/MuBo)
+[![Finance Tracker](https://github-readme-stats-one-gamma-72.vercel.app/api/pin/?username=Manas-Maahir&repo=finance-tracker-android&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/finance-tracker-android)
+[![MuBo](https://github-readme-stats-one-gamma-72.vercel.app/api/pin/?username=Manas-Maahir&repo=MuBo&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/MuBo)
 
 </div>
 
@@ -171,7 +171,7 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3F7,100:1a1b27&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3F7,100:1a1b27&height=120&section=footer&v=2" alt="footer" />
 
 <!--
 =========================================================
@@ -203,15 +203,14 @@ Until a workflow's first successful run, its image will show as broken.
      and GH_TOKEN (a classic PAT with `repo` scope).
    - Fills the START_SECTION:waka / END_SECTION:waka markers above.
 
-6. Self-hosted github-readme-stats (stats card, languages card, project pins)
+6. Self-hosted github-readme-stats (stats card, languages card, project pins)  [DONE]
    - The public github-readme-stats.vercel.app instance is often rate-limited (HTTP 503),
-     which breaks all of those images at once. Fix by hosting your own:
-   - Go to https://github.com/anuraghazra/github-readme-stats and use its Deploy button
-     (or fork it, then import the fork at vercel.com/new).
-   - In Vercel -> Settings -> Environment Variables add PAT_1 = a classic GitHub PAT
-     (the same repo+read:user token used above works fine). Deploy.
-   - Then find-and-replace `github-readme-stats.vercel.app` in this README with your new
-     Vercel domain (6 occurrences: the stats card, languages card, and 4 pins).
+     which breaks all of those images at once. The cards/pins above now point at a
+     self-hosted instance: github-readme-stats-one-gamma-72.vercel.app
+   - That instance was deployed from https://github.com/anuraghazra/github-readme-stats
+     with PAT_1 (a classic GitHub PAT) set in Vercel -> Settings -> Environment Variables.
+   - If you ever redeploy under a new domain, find-and-replace
+     `github-readme-stats-one-gamma-72.vercel.app` here with the new one.
 
 Theme note: every widget is on tokyonight / tokyo-night. If you swap, swap them
 ALL to keep the look consistent (try dracula, radical, merko, gruvbox).
