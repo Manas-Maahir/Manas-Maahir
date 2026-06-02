@@ -102,6 +102,81 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 ### Coding activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 115.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 53 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌆 Daytime                17 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌃 Evening                25 commits          ███████████░░░░░░░░░░░░░░   43.10 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Wednesday                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Sunday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/06/2026 08:51:38 UTC
 <!--END_SECTION:waka-->
 
 > *The section above auto-populates once you finish the WakaTime + GitHub Actions setup.*
