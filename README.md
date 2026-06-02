@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- EDIT ANIMATED TEXT HERE: change the values after lines= below. Separate each line with ; , write spaces as + , and URL-encode symbols (comma = %2C, apostrophe is fine). -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6FC3F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Manas;I+study+how+neural+nets+fail+before+they+do;Building+tools+for+continual+learning;Kotlin+and+Android+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6FC3F7&center=true&vCenter=true&width=820&lines=Continual+Learning+%E2%80%A2+Robust+AI+%E2%80%A2+ML+Systems;Researching+neural+network+failure+modes;Building+adaptive+and+multimodal+AI+tools;Backend+%E2%80%A2+Computer+Vision+%E2%80%A2+AI+Infrastructure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas-Maahir&color=6FC3F7&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Manas-Maahir?label=Followers&style=flat-square&color=6FC3F7)](https://github.com/Manas-Maahir?tab=followers)
@@ -15,14 +15,16 @@
 
 ### About me
 
-I'm an ML researcher interested in how neural networks lose stability during training, and how to catch it early. Most of my recent work circles that idea — **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**, which forecasts training collapse from representation entropy and gradient diversity, and **[Wafer Defect Detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**, a CNN + Swin Transformer hybrid that uses Elastic Weight Consolidation for continual learning.
+I'm an ML researcher interested in continual learning, training dynamics, and neural network reliability. My work focuses on understanding how models lose stability during training and designing systems that can detect failure before collapse.
 
-On the side I build small Android apps in Kotlin, like a [finance tracker](https://github.com/Manas-Maahir/finance-tracker-android) I made because I wanted one that was simple and free.
+Some of my recent work includes **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**, an early-warning framework that predicts training instability using representation entropy and gradient diversity, and **[Wafer Defect Detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**, a continual-learning pipeline combining CNNs, Swin Transformers, and Elastic Weight Consolidation.
 
-- 🔬 Currently exploring continual learning, training stability, and lightweight on-device ML
-- 🛠️ Open to research collaborations and ML/AI roles
-- 📍 Based near Vellore, Tamil Nadu
-- 🌐 More of my work lives in my [portfolio](https://github.com/Manas-Maahir/Portfolio)
+Outside of research, I build lightweight Android and backend applications, including a **[finance tracker](https://github.com/Manas-Maahir/finance-tracker-android)** developed in Kotlin.
+
+- Currently exploring continual learning, adaptive systems, and lightweight ML
+- Interested in multimodal AI, model robustness, and on-device intelligence
+- Open to research collaborations and ML/AI opportunities
+- Portfolio: [manasmaahir.vercel.app](https://manasmaahir.vercel.app/)
 
 <div align="center">
 
@@ -84,7 +86,7 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 ---
 
-### Snake eating my contributions
+
 
 <div align="center">
 
@@ -167,46 +169,3 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 <img width="100%" src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/footer.svg" alt="" />
 
-<!--
-=========================================================
- SETUP NOTES (delete this comment block once everything is in place)
-=========================================================
-
-All dynamic sections need a one-time setup. Add the workflow files (already in
-.github/workflows/) and the secrets below, then trigger each workflow once from
-the Actions tab (Run workflow) so the referenced images/branches get created.
-Until a workflow's first successful run, its image will show as broken.
-
-1. Snake animation  (.github/workflows/snake.yml)
-   - No secrets. Uses the built-in GITHUB_TOKEN.
-   - Outputs SVGs to the `output` branch (created automatically on first run).
-
-2. 3D contribution calendar  (.github/workflows/profile-3d.yml)
-   - No secrets. Commits SVGs into ./profile-3d-contrib/ nightly.
-
-3. lowlighter/metrics  (.github/workflows/metrics.yml)
-   - Add secret METRICS_TOKEN = a classic PAT with scopes: repo, read:user.
-   - Commits github-metrics.svg to the repo root.
-
-4. Profile summary cards  (.github/workflows/summary-cards.yml)
-   - No secrets. Commits SVGs into ./profile-summary-card-output/ nightly.
-
-5. WakaTime coding stats  (.github/workflows/waka.yml)
-   - Sign up at wakatime.com and install the editor plugin.
-   - Add secrets: WAKATIME_API_KEY (from wakatime.com/settings/account)
-     and GH_TOKEN (a classic PAT with `repo` scope).
-   - Fills the START_SECTION:waka / END_SECTION:waka markers above.
-
-6. Self-hosted github-readme-stats (stats card, languages card, project pins)  [DONE]
-   - The public github-readme-stats.vercel.app instance is often rate-limited (HTTP 503),
-     which breaks all of those images at once. The cards/pins above now point at a
-     self-hosted instance: github-readme-stats-one-gamma-72.vercel.app
-   - That instance was deployed from https://github.com/anuraghazra/github-readme-stats
-     with PAT_1 (a classic GitHub PAT) set in Vercel -> Settings -> Environment Variables.
-   - If you ever redeploy under a new domain, find-and-replace
-     `github-readme-stats-one-gamma-72.vercel.app` here with the new one.
-
-Theme note: every widget is on tokyonight / tokyo-night. If you swap, swap them
-ALL to keep the look consistent (try dracula, radical, merko, gruvbox).
-=========================================================
--->
