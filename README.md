@@ -1,5 +1,5 @@
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6FC3F7&height=200&section=header&text=Manas%20Maahir&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=ML%20researcher%20%26%20developer&descAlignY=58&descSize=18&animation=fadeIn&v=2" alt="header" />
+<!-- Header banner (committed SVG, served by GitHub — reliable, no external service) -->
+<img width="100%" src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/header.svg" alt="Manas Maahir — ML researcher & developer" />
 
 <div align="center">
 
@@ -82,8 +82,6 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 </div>
 
-> *The cards above auto-populate after the `summary-cards` workflow runs once. See setup notes at the bottom.*
-
 ---
 
 ### Snake eating my contributions
@@ -104,8 +102,6 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-> *The section above auto-populates once you finish the WakaTime + GitHub Actions setup.*
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -152,8 +148,6 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 </div>
 
-> *Generated nightly by GitHub Actions. See setup notes at the bottom.*
-
 ---
 
 ### Reach out
@@ -171,7 +165,7 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3F7,100:1a1b27&height=120&section=footer&v=2" alt="footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/footer.svg" alt="" />
 
 <!--
 =========================================================
