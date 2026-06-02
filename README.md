@@ -1,6 +1,9 @@
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6FC3F7&height=200&section=header&text=Manas%20Maahir&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=ML%20researcher%20%26%20developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6FC3F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manas+%F0%9F%91%8B;Building+ML+systems+that+predict+their+own+failure;Kotlin+apps+that+stay+out+of+your+way;Research+by+day%2C+side-project+gremlin+by+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6FC3F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Manas;I+study+how+neural+nets+fail+before+they+do;Building+tools+for+continual+learning;Kotlin+and+Android+on+the+side)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas-Maahir&color=6FC3F7&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Manas-Maahir?label=Followers&style=flat-square&color=6FC3F7)](https://github.com/Manas-Maahir?tab=followers)
@@ -11,13 +14,20 @@
 
 ### About me
 
-I'm an ML researcher and builder who gets curious about how systems quietly fall apart — and what you can read off them *before* they do. Lately that's looked like **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**, a framework that forecasts training collapse from representation entropy and gradient diversity, and **[Wafer Defect Detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)** using CNN + Swin Transformer hybrids with Elastic Weight Consolidation for continual learning.
+I'm an ML researcher interested in how neural networks lose stability during training, and how to catch it early. Most of my recent work circles that idea — **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**, which forecasts training collapse from representation entropy and gradient diversity, and **[Wafer Defect Detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**, a CNN + Swin Transformer hybrid that uses Elastic Weight Consolidation for continual learning.
 
-When I'm not in research mode, I build small, opinionated apps to fix things that annoy me — like a [finance tracker](https://github.com/Manas-Maahir/finance-tracker-android) in Kotlin because every other one was either paywalled or trying to be a full lifestyle platform.
+On the side I build small Android apps in Kotlin, like a [finance tracker](https://github.com/Manas-Maahir/finance-tracker-android) I made because I wanted one that was simple and free.
 
 - 🔬 Currently exploring continual learning, training stability, and lightweight on-device ML
 - 🛠️ Open to research collaborations and ML/AI roles
 - 📍 Based near Vellore, Tamil Nadu
+- 🌐 More of my work lives in my [portfolio](https://github.com/Manas-Maahir/Portfolio)
+
+<div align="center">
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
@@ -61,6 +71,32 @@ When I'm not in research mode, I build small, opinionated apps to fix things tha
 
 </div>
 
+<!-- Profile summary cards (auto-generated nightly by GitHub Actions) -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+</div>
+
+> *The cards above auto-populate after the `summary-cards` workflow runs once. See setup notes at the bottom.*
+
+---
+
+### Snake eating my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ### Coding activity
@@ -71,6 +107,17 @@ When I'm not in research mode, I build small, opinionated apps to fix things tha
 > *The section above auto-populates once you finish the WakaTime + GitHub Actions setup.*
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### Detailed metrics
+
+<div align="center">
+
+<!-- Generated nightly by the metrics workflow -->
+<img src="https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/github-metrics.svg" alt="metrics" />
+
+</div>
 
 ---
 
@@ -85,6 +132,14 @@ When I'm not in research mode, I build small, opinionated apps to fix things tha
 [![MuBo](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Maahir&repo=MuBo&theme=tokyonight&hide_border=true)](https://github.com/Manas-Maahir/MuBo)
 
 </div>
+
+<!-- Star traction for the flagship research project — hidden for now, re-enable later by uncommenting
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-&theme=dark)](https://star-history.com/#Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-&Date)
+
+</div>
+-->
 
 ---
 
@@ -114,9 +169,8 @@ When I'm not in research mode, I build small, opinionated apps to fix things tha
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![X / Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-maahir-03aab328a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasmaahir27@gmail.com)
 
 </div>
 
@@ -126,27 +180,39 @@ When I'm not in research mode, I build small, opinionated apps to fix things tha
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6FC3F7,100:1a1b27&height=120&section=footer" alt="footer" />
+
 <!--
 =========================================================
  SETUP NOTES (delete this comment block once everything is in place)
 =========================================================
 
-1. WakaTime auto-stats
-   - Sign up at wakatime.com, install the editor plugin
-   - Add WAKATIME_API_KEY and GH_TOKEN to repo Settings → Secrets → Actions
-   - Add .github/workflows/waka.yml using anmol098/waka-readme-stats
+All dynamic sections need a one-time setup. Add the workflow files (already in
+.github/workflows/) and the secrets below, then trigger each workflow once from
+the Actions tab (Run workflow) so the referenced images/branches get created.
+Until a workflow's first successful run, its image will show as broken.
 
-2. 3D contribution calendar
-   - Add .github/workflows/profile-3d.yml using yoshi389111/github-profile-3d-contrib
-   - It will commit the SVG to ./profile-3d-contrib/ nightly
+1. Snake animation  (.github/workflows/snake.yml)
+   - No secrets. Uses the built-in GITHUB_TOKEN.
+   - Outputs SVGs to the `output` branch (created automatically on first run).
 
-3. Replace placeholders before pushing:
-   - YOUR-LINKEDIN-HANDLE
-   - YOUR-EMAIL@example.com
-   - YOUR-HANDLE (twitter)
+2. 3D contribution calendar  (.github/workflows/profile-3d.yml)
+   - No secrets. Commits SVGs into ./profile-3d-contrib/ nightly.
 
-4. Optional theme swaps:
-   - Try theme=dracula, theme=radical, theme=merko, theme=gruvbox for a different vibe
-   - Keep ALL widget themes consistent
+3. lowlighter/metrics  (.github/workflows/metrics.yml)
+   - Add secret METRICS_TOKEN = a classic PAT with scopes: repo, read:user.
+   - Commits github-metrics.svg to the repo root.
+
+4. Profile summary cards  (.github/workflows/summary-cards.yml)
+   - No secrets. Commits SVGs into ./profile-summary-card-output/ nightly.
+
+5. WakaTime coding stats  (.github/workflows/waka.yml)
+   - Sign up at wakatime.com and install the editor plugin.
+   - Add secrets: WAKATIME_API_KEY (from wakatime.com/settings/account)
+     and GH_TOKEN (a classic PAT with `repo` scope).
+   - Fills the START_SECTION:waka / END_SECTION:waka markers above.
+
+Theme note: every widget is on tokyonight / tokyo-night. If you swap, swap them
+ALL to keep the look consistent (try dracula, radical, merko, gruvbox).
 =========================================================
 -->
