@@ -3,6 +3,7 @@
 
 <div align="center">
 
+<!-- EDIT ANIMATED TEXT HERE: change the values after lines= below. Separate each line with ; , write spaces as + , and URL-encode symbols (comma = %2C, apostrophe is fine). -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6FC3F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Manas;I+study+how+neural+nets+fail+before+they+do;Building+tools+for+continual+learning;Kotlin+and+Android+on+the+side)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas-Maahir&color=6FC3F7&style=flat-square&label=Profile+Views)
@@ -60,8 +61,8 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Manas-Maahir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Maahir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manas-Maahir&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Manas%27%20GitHub%20Stats&show=prs_merged,reviews,discussions_started&title_color=6FC3F7&icon_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Maahir&layout=compact&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&title_color=6FC3F7&text_color=a9b1d6&bg_color=1a1b27" />
 
 </div>
 
@@ -102,81 +103,6 @@ On the side I build small Android apps in Kotlin, like a [finance tracker](https
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 115.7 kB Used in GitHub's Storage 
- > 
-> 🏆 53 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-🌆 Daytime                17 commits          ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 Evening                25 commits          ███████████░░░░░░░░░░░░░░   43.10 % 
-🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Wednesday                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Friday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Sunday                   11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
-
-
- Last Updated on 02/06/2026 08:51:38 UTC
 <!--END_SECTION:waka-->
 
 > *The section above auto-populates once you finish the WakaTime + GitHub Actions setup.*
@@ -215,16 +141,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 </div>
 -->
-
----
-
-### Trophy wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Manas-Maahir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -286,6 +202,16 @@ Until a workflow's first successful run, its image will show as broken.
    - Add secrets: WAKATIME_API_KEY (from wakatime.com/settings/account)
      and GH_TOKEN (a classic PAT with `repo` scope).
    - Fills the START_SECTION:waka / END_SECTION:waka markers above.
+
+6. Self-hosted github-readme-stats (stats card, languages card, project pins)
+   - The public github-readme-stats.vercel.app instance is often rate-limited (HTTP 503),
+     which breaks all of those images at once. Fix by hosting your own:
+   - Go to https://github.com/anuraghazra/github-readme-stats and use its Deploy button
+     (or fork it, then import the fork at vercel.com/new).
+   - In Vercel -> Settings -> Environment Variables add PAT_1 = a classic GitHub PAT
+     (the same repo+read:user token used above works fine). Deploy.
+   - Then find-and-replace `github-readme-stats.vercel.app` in this README with your new
+     Vercel domain (6 occurrences: the stats card, languages card, and 4 pins).
 
 Theme note: every widget is on tokyonight / tokyo-night. If you swap, swap them
 ALL to keep the look consistent (try dracula, radical, merko, gruvbox).
