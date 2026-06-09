@@ -111,7 +111,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 
 **🐱 My GitHub Data** 
 
-> 📦 116.6 kB Used in GitHub's Storage 
+> 📦 116.5 kB Used in GitHub's Storage 
  > 
 > 🏆 69 Contributions in the Year 2026
  > 
@@ -148,25 +148,25 @@ Sunday                   11 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.17 % 
-Python                   2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 7 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.51 % 
+Python                   3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+JavaScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 17 mins      ████████████████████████░   96.10 % 
-Claude Code              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+VS Code                  15 hrs 15 mins      ████████████████████████░   96.41 % 
+Claude Code              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-Cophe-NeuroVue-1-bug-smal3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-PRISM                    3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
-Contri                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Task                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-New folder (2)           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+PRISM                    6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.43 % 
+Cophe-NeuroVue-1-bug-smal4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Contri                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Task                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+New folder (2)           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 💻 Operating System: 
-Windows                  12 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +186,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 06:27:53 UTC
+ Last Updated on 09/06/2026 06:00:06 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
