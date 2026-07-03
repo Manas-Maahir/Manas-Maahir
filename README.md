@@ -103,7 +103,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -148,25 +148,25 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.42 % 
-Markdown                 8 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.25 % 
-HTML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python                   8 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+Markdown                 6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+JavaScript               2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+HTML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 31 mins      ██████████████████████░░░   87.17 % 
-VS Code                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Claude Code              18 hrs 56 mins      ██████████████████████░░░   88.02 % 
+VS Code                  2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 
 🐱‍💻 Projects: 
-Cophe-NeuroVue-1-bug-smal5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Stride                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-PRISM                    4 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-HPM                      2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-LCIS                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Cophe-NeuroVue-1-bug-smal8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.84 % 
+PRISM                    3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Stride                   3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+HPM                      2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+LCIS                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Windows                  21 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +186,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 05:48:25 UTC
+ Last Updated on 03/07/2026 05:42:15 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
