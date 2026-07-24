@@ -103,17 +103,15 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 154.6 kB Used in GitHub's Storage 
+> 📦 154.7 kB Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2026
+> 🏆 176 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -124,21 +122,21 @@ Outside of research, I build lightweight Android and backend applications, inclu
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81 commits          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-🌆 Daytime                104 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌃 Evening                152 commits         ███████████░░░░░░░░░░░░░░   44.06 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+🌞 Morning                90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+🌆 Daytime                113 commits         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+🌃 Evening                172 commits         ███████████░░░░░░░░░░░░░░   44.79 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Tuesday                  123 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Thursday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  123 commits         ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Thursday                 75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Friday                   22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Sunday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -148,35 +146,35 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Kotlin                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Markdown                 3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
+Python                   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Kotlin                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 47 mins       ████████████████████░░░░░   81.69 % 
-VS Code                  1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Claude Code              8 hrs 16 mins       █████████████████████░░░░   84.14 % 
+VS Code                  1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 
 🐱‍💻 Projects: 
-FOP                      2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-FinanceTracker           1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-LCIS                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-DSITE                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-site                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Model Collapse Prediction2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+FinanceTracker           2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+FOP                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+LCIS                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+DSITE                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 💻 Operating System: 
-Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████████████░░░░░░░░░░   58.33 % 
+Python                   13 repos            ██████████████░░░░░░░░░░░   54.17 % 
 JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
@@ -186,7 +184,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 05:14:22 UTC
+ Last Updated on 24/07/2026 04:59:09 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
