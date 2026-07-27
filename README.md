@@ -148,25 +148,25 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
-Python                   3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-Kotlin                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.69 % 
+Python                   2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   30.21 % 
+Kotlin                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 3 mins        ███████████████████████░░   91.54 % 
-VS Code                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Claude Code              8 hrs 7 mins        ███████████████████████░░   90.81 % 
+VS Code                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 🐱‍💻 Projects: 
-FinanceTracker           3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Model Collapse Prediction2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-FOP                      1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-LCIS                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-DSITE                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+FinanceTracker           3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.58 % 
+Model Collapse Prediction2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+FOP                      1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+DSITE                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+PRISM                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -186,7 +186,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 05:20:27 UTC
+ Last Updated on 27/07/2026 05:38:26 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
