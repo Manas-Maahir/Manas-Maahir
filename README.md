@@ -103,44 +103,44 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 155.0 kB Used in GitHub's Storage 
+> 📦 155.2 kB Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2026
+> 🏆 207 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-🌃 Evening                220 commits         ███████████░░░░░░░░░░░░░░   44.27 % 
-🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌃 Evening                243 commits         ████████████░░░░░░░░░░░░░   46.73 % 
+🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  160 commits         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 95 commits          █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Saturday                 23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Tuesday                  160 commits         ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Friday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Saturday                 23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 
 
@@ -150,58 +150,56 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-Python                   2 hrs               ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Kotlin                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 1 hr 1 min          █████████████░░░░░░░░░░░░   53.71 % 
+Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 1 min         █████████████████████████   98.66 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Claude Code              1 hr 42 mins        ██████████████████████░░░   89.70 % 
+VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🐱‍💻 Projects: 
-FOP                      2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.96 % 
-Model Collapse Prediction2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
-FinanceTracker           47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-TTT                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-ttt-e2e                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TTT                      56 mins             ████████████░░░░░░░░░░░░░   49.96 % 
+FOP                      45 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
+PRISM                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+ttt-e2e                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (99.54%)
+⏱ AI Coding Time: 1 hr 45 mins (93.03%)
 
-✍️ 11,912 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,901 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 48,815,247 Input Tokens, 381,663 Output Tokens
+🔤 19,200,194 Input Tokens, 128,708 Output Tokens
 
-💵 $259.69 Estimated AI Cost This Week
+💵 $99.22 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 44 AI Prompts
+🧠 8 AI Sessions, 21 AI Prompts
 
-Opus                     11,962 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     3,909 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 566 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,169 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            █████████████░░░░░░░░░░░░   52.00 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
@@ -211,7 +209,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 04:46:19 UTC
+ Last Updated on 01/08/2026 05:17:33 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
