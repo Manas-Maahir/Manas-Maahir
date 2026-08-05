@@ -103,9 +103,9 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -123,24 +123,24 @@ Outside of research, I build lightweight Android and backend applications, inclu
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-🌆 Daytime                162 commits         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-🌃 Evening                269 commits         ████████████░░░░░░░░░░░░░   47.53 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+🌆 Daytime                162 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+🌃 Evening                277 commits         ████████████░░░░░░░░░░░░░   48.26 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Tuesday                  181 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Thursday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Sunday                   33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
+Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Sunday                   33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 ```
 
 
@@ -150,47 +150,47 @@ Sunday                   33 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 39 mins       ██████████████░░░░░░░░░░░   54.01 % 
-Python                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 3 hrs 1 min         ██████████████░░░░░░░░░░░   54.45 % 
+Python                   1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 56 mins       ██████████████████░░░░░░░   72.93 % 
-VS Code                  1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Claude Code              3 hrs 43 mins       █████████████████░░░░░░░░   67.07 % 
+VS Code                  1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
 
 🐱‍💻 Projects: 
-TTT                      3 hrs 32 mins       █████████████░░░░░░░░░░░░   52.18 % 
-SLP                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-FOP                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-FinanceTracker           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-ttt-e2e                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+TTT                      3 hrs 3 mins        ██████████████░░░░░░░░░░░   55.25 % 
+SLP                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+FinanceTracker           36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+ttt-e2e                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+PRISM                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 22 mins (94.12%)
+⏱ AI Coding Time: 5 hrs 9 mins (92.87%)
 
-✍️ 12,142 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,646 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,231,001 Input Tokens, 311,647 Output Tokens
+🔤 21,859,996 Input Tokens, 209,251 Output Tokens
 
-💵 $183.79 Estimated AI Cost This Week
+💵 $114.38 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 56 AI Prompts
+🧠 19 AI Sessions, 45 AI Prompts
 
-Opus                     12,150 lines        █████████████████████████   100.00 % 
+Opus                     8,646 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,825 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,282 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -211,7 +211,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 04:53:56 UTC
+ Last Updated on 05/08/2026 04:54:23 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
