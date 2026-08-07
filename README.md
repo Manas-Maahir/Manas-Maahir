@@ -103,10 +103,6 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2056%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2029%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.32%20million%20lines%20of%20code-blue?style=flat)
@@ -123,77 +119,6 @@ Outside of research, I build lightweight Android and backend applications, inclu
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-🌆 Daytime                162 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌃 Evening                277 commits         ████████████░░░░░░░░░░░░░   48.26 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  189 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
-Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Sunday                   33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.09 % 
-Python                   2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 51 mins       ███████████████░░░░░░░░░░   60.79 % 
-VS Code                  2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-
-🐱‍💻 Projects: 
-TTT                      2 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.36 % 
-SLP                      1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-FinanceTracker           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-PRISM                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-ttt-e2e                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-
-💻 Operating System: 
-Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 19 mins (83.7%)
-
-✍️ 8,596 lines written by AI, 4,934 lines written by hand (63.53% AI-written)
-
-🔤 19,633,006 Input Tokens, 208,603 Output Tokens
-
-💵 $103.23 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 51 AI Prompts
-
-Opus                     8,596 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.53% of written lines came from AI
-📄 Detailed Prompter — average 1,135 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 53.23% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -211,7 +136,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 04:54:33 UTC
+ Last Updated on 07/08/2026 04:18:11 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
