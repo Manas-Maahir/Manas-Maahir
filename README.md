@@ -150,49 +150,49 @@ Sunday                   33 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-Python                   2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.84 % 
+Markdown                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 14 mins       ████████████████████████░   97.19 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Claude Code              6 hrs 31 mins       ████████████████████████░   96.93 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🐱‍💻 Projects: 
-Pokemon TCG              3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.81 % 
-TTT                      1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-FinanceTracker           1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Brain JEPA               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-PRISM                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Pokemon TCG              3 hrs 7 mins        ████████████░░░░░░░░░░░░░   46.31 % 
+TTT                      1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+FinanceTracker           1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Brain JEPA               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Wafer                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (98.07%)
+⏱ AI Coding Time: 6 hrs 35 mins (97.87%)
 
-✍️ 21,455 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 19,609 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 12,092,908 Input Tokens, 718,527 Output Tokens
+🔤 2,144,828 Input Tokens, 675,489 Output Tokens
 
-💵 $141.98 Estimated AI Cost This Week
+💵 $91.48 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 53 AI Prompts
+🧠 12 AI Sessions, 45 AI Prompts
 
-Opus                     18,964 lines        ██████████████████████░░░   87.91 % 
-Sonnet                   2,608 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Opus                     17,117 lines        ██████████████████████░░░   86.78 % 
+Sonnet                   2,608 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,854 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 3,342 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -212,7 +212,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 03:58:15 UTC
+ Last Updated on 14/08/2026 03:54:29 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
