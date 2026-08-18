@@ -103,9 +103,9 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -150,43 +150,44 @@ Sunday                   33 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 7 mins        ████████████████░░░░░░░░░   65.21 % 
-Markdown                 1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python                   3 hrs 24 mins       ██████████████░░░░░░░░░░░   54.26 % 
+Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 11 mins       ████████████████████████░   97.82 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Claude Code              5 hrs 53 mins       ███████████████████████░░   93.64 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🐱‍💻 Projects: 
-Pokemon TCG              6 hrs 20 mins       █████████████████████████   100.00 % 
+Pokemon TCG              4 hrs 1 min         ████████████████░░░░░░░░░   64.14 % 
+PRISM                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Brain JEPA               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 2 mins (96.11%)
 
-✍️ 16,259 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 10,852 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 1,649,076 Input Tokens, 564,008 Output Tokens
+🔤 1,499,931 Input Tokens, 465,371 Output Tokens
 
-💵 $77.68 Estimated AI Cost This Week
+💵 $89.55 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 11 AI Sessions, 41 AI Prompts
 
-Opus                     13,950 lines        █████████████████████░░░░   84.25 % 
-Sonnet                   2,608 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Opus                     11,109 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,777 characters per prompt
+📄 Detailed Prompter — average 1,129 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -208,7 +209,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 02:51:49 UTC
+ Last Updated on 18/08/2026 02:46:39 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
