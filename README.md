@@ -150,47 +150,47 @@ Sunday                   37 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.70 % 
-Python                   3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-TeX                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 3 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+Python                   2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+TeX                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 8 mins        ███████████████████████░░   90.83 % 
-VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Claude Code              7 hrs 10 mins       ███████████████████████░░   91.89 % 
+VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🐱‍💻 Projects: 
-PRISM                    5 hrs 6 mins        █████████████░░░░░░░░░░░░   50.77 % 
-Brain JEPA               2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-XAI                      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-TTT                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+PRISM                    3 hrs 55 mins       █████████████░░░░░░░░░░░░   50.33 % 
+XAI                      1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Brain JEPA               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+TTT                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 33 mins (95.03%)
+⏱ AI Coding Time: 7 hrs 32 mins (96.73%)
 
-✍️ 19,273 lines written by AI, 6 lines written by hand (99.97% AI-written)
+✍️ 13,477 lines written by AI, 6 lines written by hand (99.96% AI-written)
 
-🔤 1,917,360 Input Tokens, 537,388 Output Tokens
+🔤 1,339,968 Input Tokens, 349,198 Output Tokens
 
-💵 $88.03 Estimated AI Cost This Week
+💵 $52.47 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 107 AI Prompts
+🧠 11 AI Sessions, 87 AI Prompts
 
-Opus                     19,478 lines        █████████████████████████   100.00 % 
+Opus                     13,639 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 969 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,057 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -210,7 +210,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 02:54:55 UTC
+ Last Updated on 25/08/2026 02:49:57 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
