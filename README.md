@@ -103,9 +103,9 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -150,50 +150,50 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 52 mins       █████████████░░░░░░░░░░░░   51.31 % 
-Markdown                 6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   8 hrs 38 mins       █████████████░░░░░░░░░░░░   53.63 % 
+Markdown                 6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 23 mins      ███████████████████████░░   93.73 % 
-VS Code                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Claude Code              15 hrs 9 mins       ███████████████████████░░   93.95 % 
+VS Code                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🐱‍💻 Projects: 
-MRI to MNI               9 hrs 41 mins       ████████████████░░░░░░░░░   63.09 % 
-TTT                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Brain JEPA               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Cophe-NeuroVue-1-bug-smal14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+MRI to MNI               9 hrs 41 mins       ███████████████░░░░░░░░░░   60.08 % 
+TTT                      2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Brain JEPA               2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Cophe-NeuroVue-1-bug-smal14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 39 mins (95.45%)
+⏱ AI Coding Time: 15 hrs 25 mins (95.67%)
 
-✍️ 21,390 lines written by AI, 7,807 lines written by hand (73.26% AI-written)
+✍️ 22,624 lines written by AI, 7,807 lines written by hand (74.35% AI-written)
 
-🔤 4,787,105 Input Tokens, 900,437 Output Tokens
+🔤 5,135,828 Input Tokens, 939,005 Output Tokens
 
-💵 $137.51 Estimated AI Cost This Week
+💵 $145.06 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 82 AI Prompts
+🧠 17 AI Sessions, 107 AI Prompts
 
-Opus                     21,430 lines        █████████████████████████   100.00 % 
+Opus                     22,665 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.26% of written lines came from AI
-📄 Detailed Prompter — average 1,464 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 39.96% of changed lines were hand-edited
+🤖 AI-Driven — 74.35% of written lines came from AI
+📄 Detailed Prompter — average 1,193 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 38.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +213,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 06:34:35 UTC
+ Last Updated on 03/09/2026 06:38:48 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
