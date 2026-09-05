@@ -150,50 +150,50 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 22 mins       █████████████░░░░░░░░░░░░   51.06 % 
-Markdown                 6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   6 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.77 % 
+Markdown                 6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 37 mins      ████████████████████████░   94.30 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Claude Code              12 hrs 56 mins      ████████████████████████░   94.02 % 
+VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🐱‍💻 Projects: 
-MRI to MNI               9 hrs 47 mins       █████████████████░░░░░░░░   67.82 % 
-Brain JEPA               2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-TTT                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Cophe-NeuroVue-1-bug-smal12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+MRI to MNI               9 hrs 47 mins       ██████████████████░░░░░░░   71.18 % 
+Brain JEPA               2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+TTT                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Cophe-NeuroVue-1-bug-smal12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 53 mins (96.21%)
+⏱ AI Coding Time: 13 hrs 12 mins (96.03%)
 
-✍️ 16,934 lines written by AI, 7,807 lines written by hand (68.45% AI-written)
+✍️ 15,381 lines written by AI, 7,807 lines written by hand (66.33% AI-written)
 
-🔤 4,990,951 Input Tokens, 845,785 Output Tokens
+🔤 4,319,034 Input Tokens, 807,372 Output Tokens
 
-💵 $131.05 Estimated AI Cost This Week
+💵 $117.13 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 99 AI Prompts
+🧠 13 AI Sessions, 91 AI Prompts
 
-Opus                     16,964 lines        █████████████████████████   100.00 % 
+Opus                     15,410 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.45% of written lines came from AI
-📄 Detailed Prompter — average 1,252 characters per prompt
+🤖 AI-Driven — 66.33% of written lines came from AI
+📄 Detailed Prompter — average 1,354 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 45.67% of changed lines were hand-edited
+🚀 High AI Trust — 48.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +213,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 06:41:26 UTC
+ Last Updated on 05/09/2026 06:27:38 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
