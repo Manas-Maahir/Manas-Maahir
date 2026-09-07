@@ -150,50 +150,49 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 50 mins       █████████████░░░░░░░░░░░░   51.43 % 
-Markdown                 5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 4 hrs 40 mins       ██████████████░░░░░░░░░░░   55.57 % 
+Python                   2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 30 mins      ███████████████████████░░   93.96 % 
-VS Code                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Claude Code              7 hrs 37 mins       ███████████████████████░░   90.43 % 
+VS Code                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🐱‍💻 Projects: 
-MRI to MNI               9 hrs 47 mins       ██████████████████░░░░░░░   73.56 % 
-Brain JEPA               2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Cophe-NeuroVue-1-bug-smal12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-scripts                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+MRI to MNI               4 hrs 15 mins       █████████████░░░░░░░░░░░░   50.53 % 
+Brain JEPA               2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+PRISM                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Cophe-NeuroVue-1-bug-smal12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Windows                  13 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 46 mins (95.89%)
+⏱ AI Coding Time: 7 hrs 55 mins (93.99%)
 
-✍️ 14,524 lines written by AI, 7,807 lines written by hand (65.04% AI-written)
+✍️ 7,435 lines written by AI, 7,807 lines written by hand (48.78% AI-written)
 
-🔤 4,222,711 Input Tokens, 780,081 Output Tokens
+🔤 2,876,392 Input Tokens, 449,930 Output Tokens
 
-💵 $114.55 Estimated AI Cost This Week
+💵 $65.78 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 87 AI Prompts
+🧠 9 AI Sessions, 79 AI Prompts
 
-Opus                     14,553 lines        █████████████████████████   100.00 % 
+Opus                     7,453 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.04% of written lines came from AI
-📄 Detailed Prompter — average 1,411 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 49.49% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.78% of written lines came from AI
+📄 Detailed Prompter — average 1,447 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 65.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -213,7 +212,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 06:37:19 UTC
+ Last Updated on 07/09/2026 06:45:13 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
