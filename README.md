@@ -103,9 +103,9 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,7 +113,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 
 **🐱 My GitHub Data** 
 
-> 📦 156.2 kB Used in GitHub's Storage 
+> 📦 156.3 kB Used in GitHub's Storage 
  > 
 > 🏆 158 Contributions in the Year 2026
  > 
@@ -150,47 +150,43 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   36.41 % 
-Python                   1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.87 % 
-Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Other                    1 hr 28 mins        █████████████░░░░░░░░░░░░   51.70 % 
+Python                   1 hr 22 mins        ████████████░░░░░░░░░░░░░   48.30 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 32 mins       ██████████████████████░░░   87.55 % 
-VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Claude Code              2 hrs 42 mins       ████████████████████████░   94.89 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 🐱‍💻 Projects: 
-Brain JEPA               2 hrs 39 mins       █████████████░░░░░░░░░░░░   51.24 % 
-PRISM                    1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   36.26 % 
-Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-SLP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-DixitaFOP                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+PRISM                    1 hr 55 mins        █████████████████░░░░░░░░   67.27 % 
+Brain JEPA               46 mins             ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+SLP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+DixitaFOP                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (90.25%)
+⏱ AI Coding Time: 2 hrs 51 mins (100.0%)
 
-✍️ 4,838 lines written by AI, 7,807 lines written by hand (38.26% AI-written)
+✍️ 1,542 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,164,754 Input Tokens, 320,523 Output Tokens
+🔤 1,186,163 Input Tokens, 171,344 Output Tokens
 
-💵 $41.77 Estimated AI Cost This Week
+💵 $27.33 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 75 AI Prompts
+🧠 5 AI Sessions, 69 AI Prompts
 
-Opus                     4,902 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,606 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 38.26% of written lines came from AI
-📄 Detailed Prompter — average 1,398 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 74.66% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 452 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -210,7 +206,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 06:41:54 UTC
+ Last Updated on 09/09/2026 06:52:01 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
