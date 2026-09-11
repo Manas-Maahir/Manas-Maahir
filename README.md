@@ -103,13 +103,13 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -126,21 +126,21 @@ Outside of research, I build lightweight Android and backend applications, inclu
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                226 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌃 Evening                900 commits         █████████████████░░░░░░░░   68.23 % 
+🌞 Morning                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+🌆 Daytime                227 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+🌃 Evening                909 commits         █████████████████░░░░░░░░   68.35 % 
 🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Tuesday                  203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Thursday                 410 commits         ████████░░░░░░░░░░░░░░░░░   31.08 % 
-Friday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Saturday                 319 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Sunday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Tuesday                  206 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Thursday                 410 commits         ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Friday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Saturday                 319 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Sunday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 
 
@@ -205,7 +205,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 06:47:46 UTC
+ Last Updated on 11/09/2026 06:47:23 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
