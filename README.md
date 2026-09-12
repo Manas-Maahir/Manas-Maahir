@@ -113,7 +113,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 
 **🐱 My GitHub Data** 
 
-> 📦 156.3 kB Used in GitHub's Storage 
+> 📦 156.4 kB Used in GitHub's Storage 
  > 
 > 🏆 158 Contributions in the Year 2026
  > 
@@ -205,7 +205,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 06:47:23 UTC
+ Last Updated on 12/09/2026 06:39:55 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
