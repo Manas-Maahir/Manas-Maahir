@@ -150,41 +150,45 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 33 mins        ███████████████░░░░░░░░░░   59.63 % 
-Python                   1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.37 % 
+Python                   1 hr 42 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
+Other                    1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.69 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 27 mins       ████████████████████████░   94.75 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Claude Code              3 hrs 32 mins       ████████████████████████░   95.04 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🐱‍💻 Projects: 
-PRISM                    2 hrs 26 mins       ███████████████████████░░   93.76 % 
-SLP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-DixitaFOP                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+PRISM                    2 hrs 26 mins       ████████████████░░░░░░░░░   65.56 % 
+TTT                      1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.08 % 
+SLP                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+DixitaFOP                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 36 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 43 mins (100.0%)
 
-✍️ 833 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,005 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 989,780 Input Tokens, 174,869 Output Tokens
+🔤 1,351,614 Input Tokens, 288,556 Output Tokens
 
-💵 $25.48 Estimated AI Cost This Week
+💵 $46.26 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 48 AI Prompts
+🧠 6 AI Sessions, 56 AI Prompts
 
-Opus                     896 lines           █████████████████████████   100.00 % 
+Opus                     4,068 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 496 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -205,7 +209,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 06:39:55 UTC
+ Last Updated on 13/09/2026 06:56:16 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
