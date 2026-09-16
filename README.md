@@ -103,9 +103,9 @@ Outside of research, I build lightweight Android and backend applications, inclu
 ### Coding activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -113,7 +113,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 
 **🐱 My GitHub Data** 
 
-> 📦 156.4 kB Used in GitHub's Storage 
+> 📦 156.6 kB Used in GitHub's Storage 
  > 
 > 🏆 232 Contributions in the Year 2026
  > 
@@ -150,46 +150,47 @@ Sunday                   207 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Python                   2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.52 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Text                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.46 % 
+Markdown                 3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Bash                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Text                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 42 mins       █████████████████████████   98.63 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Claude Code              9 hrs 36 mins       ████████████████████████░   96.70 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🐱‍💻 Projects: 
-TTT                      5 hrs 29 mins       ████████████████████░░░░░   80.78 % 
-pokemon champs           42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-PRISM                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-ttt-e2e                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TTT                      8 hrs 21 mins       █████████████████████░░░░   84.03 % 
+pokemon champs           42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+PRISM                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+SLP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+ttt-e2e                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 44 mins (98.04%)
 
-✍️ 8,635 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,953 lines written by AI, 281 lines written by hand (97.88% AI-written)
 
-🔤 2,211,997 Input Tokens, 601,835 Output Tokens
+🔤 2,744,938 Input Tokens, 721,646 Output Tokens
 
-💵 $91.12 Estimated AI Cost This Week
+💵 $115.44 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 83 AI Prompts
+🧠 12 AI Sessions, 117 AI Prompts
 
-Opus                     8,635 lines         █████████████████████████   100.00 % 
+Opus                     12,953 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,379 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 97.88% of written lines came from AI
+📄 Detailed Prompter — average 1,496 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 3.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -209,7 +210,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 06:55:13 UTC
+ Last Updated on 16/09/2026 06:58:19 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
