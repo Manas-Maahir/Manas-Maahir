@@ -113,7 +113,7 @@ Outside of research, I build lightweight Android and backend applications, inclu
 
 **🐱 My GitHub Data** 
 
-> 📦 159.9 kB Used in GitHub's Storage 
+> 📦 160.0 kB Used in GitHub's Storage 
  > 
 > 🏆 232 Contributions in the Year 2026
  > 
@@ -150,48 +150,48 @@ Sunday                   221 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-Python                   5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-Bash                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Text                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 6 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
+Python                   4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Bash                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Text                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 10 mins      ████████████████████████░   96.00 % 
-VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Claude Code              14 hrs 6 mins       ████████████████████████░   96.02 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🐱‍💻 Projects: 
-TTT                      14 hrs 38 mins      ███████████████████████░░   92.54 % 
-pokemon champs           42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-SLP                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-ttt-e2e                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TTT                      13 hrs 30 mins      ███████████████████████░░   91.97 % 
+pokemon champs           42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+SLP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+ttt-e2e                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  15 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 29 mins (97.91%)
+⏱ AI Coding Time: 14 hrs 21 mins (97.76%)
 
-✍️ 16,394 lines written by AI, 1,251 lines written by hand (92.91% AI-written)
+✍️ 13,222 lines written by AI, 1,251 lines written by hand (91.36% AI-written)
 
-🔤 3,652,276 Input Tokens, 1,027,826 Output Tokens
+🔤 3,290,442 Input Tokens, 914,139 Output Tokens
 
-💵 $162.36 Estimated AI Cost This Week
+💵 $141.58 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 176 AI Prompts
+🧠 14 AI Sessions, 168 AI Prompts
 
-Opus                     16,501 lines        █████████████████████████   100.00 % 
+Opus                     13,329 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.91% of written lines came from AI
-📄 Detailed Prompter — average 1,174 characters per prompt
+🤖 AI-Driven — 91.36% of written lines came from AI
+📄 Detailed Prompter — average 1,214 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 13.02% of changed lines were hand-edited
+🚀 High AI Trust — 15.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 06:50:13 UTC
+ Last Updated on 20/09/2026 07:14:05 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
