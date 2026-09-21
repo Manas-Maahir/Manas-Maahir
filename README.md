@@ -150,48 +150,48 @@ Sunday                   221 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.24 % 
-Python                   4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Bash                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Text                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
+Python                   5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Bash                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 6 mins       ████████████████████████░   96.02 % 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Claude Code              16 hrs 37 mins      ████████████████████████░   96.53 % 
+VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-TTT                      13 hrs 30 mins      ███████████████████████░░   91.97 % 
-pokemon champs           42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-SLP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-ttt-e2e                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TTT                      14 hrs 39 mins      █████████████████████░░░░   85.17 % 
+MRI to MNI               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+SLP                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+ttt-e2e                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  14 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 21 mins (97.76%)
+⏱ AI Coding Time: 16 hrs 52 mins (98.01%)
 
-✍️ 13,222 lines written by AI, 1,251 lines written by hand (91.36% AI-written)
+✍️ 16,460 lines written by AI, 1,252 lines written by hand (92.93% AI-written)
 
-🔤 3,290,442 Input Tokens, 914,139 Output Tokens
+🔤 3,958,095 Input Tokens, 997,105 Output Tokens
 
-💵 $141.58 Estimated AI Cost This Week
+💵 $164.68 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 168 AI Prompts
+🧠 16 AI Sessions, 190 AI Prompts
 
-Opus                     13,329 lines        █████████████████████████   100.00 % 
+Opus                     16,587 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.36% of written lines came from AI
-📄 Detailed Prompter — average 1,214 characters per prompt
+🤖 AI-Driven — 92.93% of written lines came from AI
+📄 Detailed Prompter — average 1,113 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 15.63% of changed lines were hand-edited
+🚀 High AI Trust — 12.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Manas-Maahir/Manas-Maahir/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 07:14:05 UTC
+ Last Updated on 21/09/2026 07:23:38 UTC
 <!--END_SECTION:waka-->
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manas-Maahir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
