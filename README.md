@@ -24,7 +24,7 @@ Open to **research collaborations** and **ML/AI roles**.
 
 | Project | The question | Where it stands |
 | --- | --- | --- |
-| **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**<br><sub>training-collapse early warning</sub> | Can a network's internal signals (representation entropy, gradient diversity, neuron sparsity and three more) predict collapse *before* validation accuracy drops? | `CollapseMonitor` library + held-out evaluation across 9 failure regimes, benchmarked against val-accuracy baselines |
+| **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**<br><sub>training-collapse early warning</sub> | Can a network's internal signals (representation entropy, gradient diversity, neuron sparsity and three more) predict collapse *before* validation accuracy drops? | 🚧 `CollapseMonitor` library done; held-out evaluation (leave-one-run-out, 9 failure regimes, vs. baselines) built — results pending |
 | **[Trust-Gated TTT](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs)**<br><sub>security of test-time training</sub> | A model that learns while it serves can be poisoned. Can a benign-looking input stream corrupt [TTT-E2E](https://arxiv.org/abs/2512.23675) fast weights — and can a trust gate stop it? | 🚧 Pre-registered attack experiment; the defense only gets built if the attack is shown to work |
 | **[Wafer defect detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**<br><sub>continual learning</sub> | CNN + Swin Transformer on polar-transformed wafer maps, with EWC + replay so new defect types don't erase old ones | **83.19%** val. accuracy · macro-AUC **0.978** on WM-811K |
 | **[SymFormer replication](https://github.com/Manas-Maahir/FOP)**<br><sub>TB detection, TPAMI 2023</sub> | Does the SAS block behind the paper's gains ([arXiv:2307.02848](https://arxiv.org/abs/2307.02848)) survive an independent replication? | Full pipeline + 6 ablations — the trend **did not reproduce**: a clean, reported null result |
@@ -49,6 +49,13 @@ flowchart LR
 ```
 
 </details>
+
+## 🧭 How I work
+
+- **Decide what counts as success before running anything.** Trust-Gated TTT has a [pre-registered kill-gate](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs/blob/HEAD/experiments/001-attack-spike/PREREGISTERED.md): if no benign-looking stream corrupts the fast weights past a threshold fixed in advance, the project stops.
+- **Report null results.** My [SymFormer replication](https://github.com/Manas-Maahir/FOP/blob/HEAD/report.md) found the paper's trend didn't hold at my scale, and the write-up says so up front.
+- **Beat the simple baseline, on runs the model never saw.** NDEWS only counts if it beats a plain "validation accuracy dropped" alert on F1 and ROC-AUC, under leave-one-run-out evaluation.
+- **Be clear about what a tool isn't.** [SLP](https://github.com/Manas-Maahir/SLP) is labelled a research tool, not a diagnostic device, and de-identifies patient data before anything else touches it.
 
 ## 🛠️ Things I've built
 
@@ -76,13 +83,28 @@ flowchart LR
 
 <div align="center">
 
+<sub><b>ML & research</b></sub><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=light" />
-  <img alt="Python, PyTorch, TensorFlow, scikit-learn, LaTeX, Kotlin, Android, JavaScript, HTML, Bash, Git, Linux, VS Code" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Clatex&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Clatex&theme=light" />
+  <img alt="ML & research" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Clatex&theme=dark" />
 </picture>
 
-<sub>also NumPy · pandas · Jetpack Compose</sub>
+<sub><b>Apps & backend</b></sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=light" />
+  <img alt="Apps & backend" src="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
+</picture>
+
+<sub><b>Tooling</b></sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Cgit%2Clinux%2Cbash%2Cvscode%2Cvercel&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Cgit%2Clinux%2Cbash%2Cvscode%2Cvercel&theme=light" />
+  <img alt="Tooling" src="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Cgit%2Clinux%2Cbash%2Cvscode%2Cvercel&theme=dark" />
+</picture>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-A142F4?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![timm](https://img.shields.io/badge/timm-4B5563?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 </div>
 
@@ -159,39 +181,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </div>
 
 </details>
-
-## ♟️ Play chess with me — and everyone else
-
-<!-- Managed by .github/workflows/chess.yml + scripts/chess_game.py — don't edit by hand -->
-<!--START_SECTION:chess-->
-<div align="center">
-
-<img src="chess/board.svg?v=1-0" width="440" alt="Current position of the community chess game">
-
-**Game #1 · move 1 · ⚪ White to play**
-
-Anyone can play: pick a move below. It opens a pre-filled issue — press <b>Create</b> and the board updates in about a minute.
-
-</div>
-
-<details>
-<summary><b>Choose White's move</b></summary>
-
-| From | To |
-| :---: | --- |
-| ♙ **A2** | [A3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ca2a3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [A4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ca2a4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♘ **B1** | [A3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cb1a3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [C3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cb1c3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **B2** | [B3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cb2b3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [B4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cb2b4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **C2** | [C3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cc2c3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [C4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cc2c4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **D2** | [D3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cd2d3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [D4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cd2d4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **E2** | [E3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ce2e3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [E4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ce2e4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **F2** | [F3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cf2f3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [F4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cf2f4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♘ **G1** | [F3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cg1f3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [H3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cg1h3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **G2** | [G3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cg2g3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [G4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Cg2g4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-| ♙ **H2** | [H3](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ch2h3&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) · [H4](https://github.com/Manas-Maahir/Manas-Maahir/issues/new?title=chess%7Cmove%7Ch2h4&body=Just%20press%20%2A%2ACreate%2A%2A%20%E2%80%94%20the%20title%20is%20your%20move.%20No%20need%20to%20write%20anything.) |
-
-</details>
-<!--END_SECTION:chess-->
 
 <br>
 
