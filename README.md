@@ -77,9 +77,9 @@ flowchart LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,latex,kotlin,androidstudio,js,html,bash,git,linux,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,latex,kotlin,androidstudio,js,html,bash,git,linux,vscode&theme=light" />
-  <img alt="Python, PyTorch, TensorFlow, scikit-learn, LaTeX, Kotlin, Android, JavaScript, HTML, Bash, Git, Linux, VS Code" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,latex,kotlin,androidstudio,js,html,bash,git,linux,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=light" />
+  <img alt="Python, PyTorch, TensorFlow, scikit-learn, LaTeX, Kotlin, Android, JavaScript, HTML, Bash, Git, Linux, VS Code" src="https://skillicons.dev/icons?i=py%2Cpytorch%2Ctensorflow%2Csklearn%2Clatex%2Ckotlin%2Candroidstudio%2Cjs%2Chtml%2Cbash%2Cgit%2Clinux%2Cvscode&theme=dark" />
 </picture>
 
 <sub>also NumPy · pandas · Jetpack Compose</sub>
