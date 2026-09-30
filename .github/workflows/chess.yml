@@ -1,0 +1,68 @@
+name: Community Chess
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# One move at a time, in order. Never cancel a running move.
+concurrency:
+  group: chess
+  cancel-in-progress: false
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      # Untrusted input: only ever passed through env, never interpolated into a script.
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      COMMENT_FILE: ${{ runner.temp }}/comment.md
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      # ref: main — issue events pin GITHUB_SHA to when the issue was opened, which may be
+      # before earlier queued moves were pushed.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -q chess==1.11.2
+
+      - name: Play the move
+        id: play
+        run: python scripts/chess_game.py move
+
+      - name: Commit and push
+        if: steps.play.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chess README.md
+          git commit -q -m "chess: ${ISSUE_AUTHOR} played (#${ISSUE_NUMBER})"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
+
+      - name: Reply and close
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body-file "$COMMENT_FILE"
+          gh issue close "$ISSUE_NUMBER"
+
+      - name: Report failure
+        if: failure()
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Something went wrong on my side while playing this move — please try again in a minute."
+          gh issue close "$ISSUE_NUMBER"
