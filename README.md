@@ -138,7 +138,7 @@ flowchart LR
 </div>
 
 <details>
-<summary><b>More stats</b> — streak, coding time, detailed metrics, 3D calendar</summary>
+<summary><b>More stats</b> — streak, coding time, 3D calendar</summary>
 
 <br>
 
@@ -169,8 +169,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <div align="center">
-
-<img src="github-metrics.svg" alt="Detailed GitHub metrics" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
