@@ -26,9 +26,9 @@ Open to **research collaborations** and **ML/AI roles**.
 | --- | --- | --- |
 | **[NDEWS](https://github.com/Manas-Maahir/Neural-Degeneration-Early-Warning-System-NDEWS-)**<br><sub>training-collapse early warning</sub> | Can a network's internal signals (representation entropy, gradient diversity, neuron sparsity and three more) predict collapse *before* validation accuracy drops? | 🚧 `CollapseMonitor` library done; held-out evaluation (leave-one-run-out, 9 failure regimes, vs. baselines) built — results pending |
 | **[Trust-Gated TTT](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs)**<br><sub>security of test-time training</sub> | A model that learns while it serves can be poisoned. Can a benign-looking input stream corrupt [TTT-E2E](https://arxiv.org/abs/2512.23675) fast weights — and can a trust gate stop it? | 🚧 Pre-registered attack experiment; the defense only gets built if the attack is shown to work |
-| **[Wafer defect detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**<br><sub>continual learning</sub> | CNN + Swin Transformer on polar-transformed wafer maps, with EWC + replay so new defect types don't erase old ones | **83.19%** val. accuracy · macro-AUC **0.978** on WM-811K |
+| **[Wafer defect detection](https://github.com/Manas-Maahir/Wafer-Defect-Detection-using-EWC)**<br><sub>continual learning · team of 3</sub> | Swin Transformer on polar-transformed wafer maps, with EWC + replay so new defect types don't erase old ones | **83.19%** val. accuracy · macro-AUC **0.978** on WM-811K |
 | **[SymFormer replication](https://github.com/Manas-Maahir/FOP)**<br><sub>TB detection, TPAMI 2023</sub> | Does the SAS block behind the paper's gains ([arXiv:2307.02848](https://arxiv.org/abs/2307.02848)) survive an independent replication? | Full pipeline + 6 ablations — the trend **did not reproduce**: a clean, reported null result |
-| **[Lesion → Disconnection → Outcome](https://github.com/Manas-Maahir/SLP)**<br><sub>neuroimaging</sub> | Turn a brain-lesion mask into a white-matter disconnection profile, then predict clinical outcome from it | Research pipeline (not a diagnostic device) |
+| **[Lesion → Disconnection → Outcome](https://github.com/Manas-Maahir/SLP)**<br><sub>neuroimaging</sub> | Turn a brain-lesion mask into a white-matter disconnection profile, then predict clinical outcome from it | ✅ Complete, run on 108 real lesions (registration Dice **0.924**). Finding: disconnection features don't beat lesion volume, and it says so |
 
 <details>
 <summary><b>How it fits together</b></summary>
@@ -53,15 +53,15 @@ flowchart LR
 ## 🧭 How I work
 
 - **Decide what counts as success before running anything.** Trust-Gated TTT has a [pre-registered kill-gate](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs/blob/HEAD/experiments/001-attack-spike/PREREGISTERED.md): if no benign-looking stream corrupts the fast weights past a threshold fixed in advance, the project stops.
-- **Report null results.** My [SymFormer replication](https://github.com/Manas-Maahir/FOP/blob/HEAD/report.md) found the paper's trend didn't hold at my scale, and the write-up says so up front.
+- **Report null results.** My [SymFormer replication](https://github.com/Manas-Maahir/FOP/blob/HEAD/report.md) found the paper's trend didn't hold at my scale, and [SLP](https://github.com/Manas-Maahir/SLP) found that once lesion volume is controlled for, disconnection features predict nothing. Both write-ups say so up front.
 - **Beat the simple baseline, on runs the model never saw.** NDEWS only counts if it beats a plain "validation accuracy dropped" alert on F1 and ROC-AUC, under leave-one-run-out evaluation.
-- **Be clear about what a tool isn't.** [SLP](https://github.com/Manas-Maahir/SLP) is labelled a research tool, not a diagnostic device, and de-identifies patient data before anything else touches it.
+- **Be clear about what a tool isn't.** SLP is labelled a research tool, not a diagnostic device, and de-identifies patient data before anything else touches it.
 
 ## 🛠️ Things I've built
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[STRIDE](https://github.com/Manas-Maahir/Gait-Analysis)** | Clinical gait metrics from a single video of a 6 m walk test, for Parkinson's research — flags freezing, asymmetry and sway | Python · computer vision |
+| **[STRIDE](https://github.com/Manas-Maahir/Gait-Analysis)** | Clinical gait metrics from a single video of a 6 m walk test, for Parkinson's research — flags freezing, asymmetry and sway | Python · RTMPose |
 | **[GitSight](https://github.com/Manas-Maahir/GitSight)** | Fair, multi-factor analysis of who actually contributed to a repo — beyond raw commit counts | Python |
 | **[Finance tracker](https://github.com/Manas-Maahir/finance-tracker-android)** | A wallet app I built for myself because the existing ones are too complex or paywalled | Kotlin · Android |
 | **[MuBo](https://github.com/Manas-Maahir/MuBo)** | Generates evolving lo-fi MIDI sessions with seamless real-time playback | Python · FluidSynth |
