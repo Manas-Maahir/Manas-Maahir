@@ -32,7 +32,11 @@ def main():
     repos = {}
     for e in events:
         name = e["repo"]["name"]
-        if name in SKIP or not name.startswith(f"{USER}/"):
+        if name in SKIP:
+            continue
+        # org repos count too (e.g. a lab's repo); an org mirror of one of my own repos does not
+        short = name.split("/", 1)[1]
+        if not name.startswith(f"{USER}/") and any(e2["repo"]["name"] == f"{USER}/{short}" for e2 in events):
             continue
         r = repos.setdefault(name, {"pushes": 0, "last": e["created_at"], "created": False, "public": False})
         r["last"] = max(r["last"], e["created_at"])  # the events feed is only roughly time-ordered

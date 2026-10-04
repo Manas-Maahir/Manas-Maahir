@@ -46,6 +46,7 @@ flowchart LR
     MED --> FOP["SymFormer replication<br/>TB on chest X-rays"]
     MED --> SLP["Lesion → outcome<br/>neuroimaging"]
     MED --> STRIDE["STRIDE<br/>video gait analysis"]
+    MED --> MRL["MRLatte<br/>neuroimaging app"]
 ```
 
 </details>
@@ -59,10 +60,18 @@ flowchart LR
 
 ## 🛠️ Things I've built
 
+### 🧠 [MRLatte](https://github.com/cogneuro-rgb/MRLatte) — neuroimaging viewer & clinical analysis app
+
+<a href="https://github.com/cogneuro-rgb/MRLatte"><img src="assets/mrlatte.png" width="100%" alt="MRLatte: multiplanar MRI views and a 3D brain render, with panels for lesion masks, ROIs, atlases, retinotopy and tractography" /></a>
+
+Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destrieux, Jülich, HCP tracts and more), draw lesions and ROIs, dissect white-matter tracts and run lesion network mapping. Ships as a Windows desktop app or a Docker deployment.
+<sub>React · NiiVue · Electron · FastAPI</sub>
+
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[STRIDE](https://github.com/Manas-Maahir/Gait-Analysis)** | Clinical gait metrics from a single video of a 6 m walk test, for Parkinson's research — flags freezing, asymmetry and sway | Python · RTMPose |
-| **[GitSight](https://github.com/Manas-Maahir/GitSight)** | Fair, multi-factor analysis of who actually contributed to a repo — beyond raw commit counts | Python |
+| **[GitSight](https://github.com/Manas-Maahir/GitSight)** | Fair, multi-factor analysis of who actually contributed to a repo — beyond raw commit counts | Python · FastAPI · React |
+| **[Dataset bias auditor](https://github.com/Deep-Learning-130/XAI)**<br><sub>team project</sub> | Audits the *dataset*, not just the model, for bias and representation gaps — statistically grounded, 220 tests | Python |
 | **[Finance tracker](https://github.com/Manas-Maahir/finance-tracker-android)** | A wallet app I built for myself because the existing ones are too complex or paywalled | Kotlin · Android |
 | **[MuBo](https://github.com/Manas-Maahir/MuBo)** | Generates evolving lo-fi MIDI sessions with seamless real-time playback | Python · FluidSynth |
 | **[CPU scheduling visualizer](https://github.com/Manas-Maahir/OS-algorithms-visualization-)** | Interactive simulator for OS scheduling algorithms | JavaScript |
@@ -71,10 +80,10 @@ flowchart LR
 
 <!-- Updated every 6 hours by .github/workflows/activity.yml -->
 <!--START_SECTION:activity-->
+- **[XAI](https://github.com/Deep-Learning-130/XAI)**  
+  <sub>2 pushes · last active Oct 4</sub>
 - **[Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs)** — Poisoning the LLM  
   <sub>13 pushes · last active Sep 29</sub>
-- **[neetcode-submissions](https://github.com/Manas-Maahir/neetcode-submissions)** — My NeetCode.io problem submissions  
-  <sub>📢 just open-sourced · 12 pushes · last active Sep 28</sub>
 - **[SLP](https://github.com/Manas-Maahir/SLP)**  
   <sub>last active Sep 28</sub>
 <!--END_SECTION:activity-->
@@ -92,9 +101,9 @@ flowchart LR
 
 <sub><b>Apps & backend</b></sub><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=light" />
-  <img alt="Apps & backend" src="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Celectron%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Celectron%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=light" />
+  <img alt="Apps & backend" src="https://skillicons.dev/icons?i=kotlin%2Candroidstudio%2Cfastapi%2Creact%2Celectron%2Cts%2Cjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" />
 </picture>
 
 <sub><b>Tooling</b></sub><br>
