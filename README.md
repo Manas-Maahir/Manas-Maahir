@@ -162,19 +162,22 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2018%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ██████████████░░░░░░░░░░░   54.84 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   18 repos            ██████████████░░░░░░░░░░░   56.25 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
- Last Updated on 29/09/2026 07:38:51 UTC
+
+
+
+ Last Updated on 05/10/2026 07:50:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
