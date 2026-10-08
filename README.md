@@ -162,7 +162,7 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2014%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -177,7 +177,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 07:50:17 UTC
+ Last Updated on 08/10/2026 08:07:15 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
