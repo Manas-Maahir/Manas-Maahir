@@ -81,7 +81,7 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 <!-- Updated every 6 hours by .github/workflows/activity.yml -->
 <!--START_SECTION:activity-->
 - **[XAI](https://github.com/Deep-Learning-130/XAI)**  
-  <sub>2 pushes · last active Oct 4</sub>
+  <sub>3 pushes · last active Oct 8</sub>
 - **[Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs](https://github.com/Manas-Maahir/Trust-Gated-Fast-Weight-Updates-for-TTT-E2E-LLMs)** — Poisoning the LLM  
   <sub>13 pushes · last active Sep 29</sub>
 - **[SLP](https://github.com/Manas-Maahir/SLP)**  
