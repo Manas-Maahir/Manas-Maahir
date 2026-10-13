@@ -167,17 +167,17 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ██████████████░░░░░░░░░░░   57.58 % 
+Python                   20 repos            ███████████████░░░░░░░░░░   60.61 % 
 JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 12/10/2026 08:12:54 UTC
+ Last Updated on 13/10/2026 08:38:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
