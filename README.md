@@ -162,7 +162,7 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2040%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -177,7 +177,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 06:37:19 UTC
+ Last Updated on 25/10/2026 07:03:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
