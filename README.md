@@ -80,8 +80,7 @@ Load an MRI or a DICOM series, overlay brain atlases (AAL, Harvard-Oxford, Destr
 
 <!-- Updated every 6 hours by .github/workflows/activity.yml -->
 <!--START_SECTION:activity-->
-- **[XAI](https://github.com/Deep-Learning-130/XAI)**  
-  <sub>1 push · last active Oct 8</sub>
+_Nothing public in the last few weeks — probably deep in a private repo._
 <!--END_SECTION:activity-->
 
 ## 🧰 Tools
